@@ -6,7 +6,7 @@
     "presets": [
         ["@babel/preset-env", {
             "targets": {
-                "node": "14", 
+                "node": "19"
             },
             "exclude": ["proposal-dynamic-import"]
         }]
